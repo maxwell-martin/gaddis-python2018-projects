@@ -1,0 +1,14 @@
+Max
+90
+Joe
+20
+Sally
+100
+Arnold
+50
+Sheila
+70
+Bobby
+60
+Cletus
+99
